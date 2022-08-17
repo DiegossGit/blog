@@ -1,0 +1,13 @@
+@import url(./sass/_typography.scss);
+@import url(./sass/_colors.scss);
+@import url(./sass/_layout.scss);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  background-color: #040506;
+}/*# sourceMappingURL=style.css.map */
